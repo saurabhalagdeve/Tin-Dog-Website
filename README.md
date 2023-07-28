@@ -1,7 +1,9 @@
 # Tin-Dog-Website
 TinDog - Meet New and Interesting Dogs Nearby 🐶
 [Click Here👈👈👈](https://saurabhalagdeve.github.io/Tin-Dog-Website/)
-#output
+
+
+### Screenshots
 ![Screenshot (15)](https://github.com/saurabhalagdeve/Tin-Dog-Website/assets/127332934/2b63a8ac-38b6-4bbd-af0b-00fef6f6aadf)
 Screenshot 1
 
@@ -45,8 +47,8 @@ TinDog is a fun and innovative web application that helps you connect with new a
 5. If two dogs like each other, it's a match!
 6. Initiate a chat and plan playdates for your canine companions.
 
-### Screenshots
-![TinDog Screenshots](screenshots.png)
+
+
 
 ### Contributions
 Contributions are welcome! If you have any ideas for new features, bug fixes, or improvements, feel free to fork this repository and submit a pull request.
