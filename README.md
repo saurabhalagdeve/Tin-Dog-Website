@@ -18,7 +18,9 @@ Screenshot 2
 Screenshot 3
 
 
-![TinDog](images/iphone6.png)
+[Click Here👈👈👈](https://saurabhalagdeve.github.io/Tin-Dog-Website/)
+[Click Here👈👈👈](https://saurabhalagdeve.github.io/Tin-Dog-Website/)
+[Click Here👈👈👈](https://saurabhalagdeve.github.io/Tin-Dog-Website/)
 
 ### Description
 TinDog is a fun and innovative web application that helps you connect with new and interesting dogs in your area. With its easy-to-use interface, even your furry friends can navigate through profiles to find their potential playmates or companions. Whether you're looking for a soulmate for your four-legged friend or simply want to connect with other dog owners, TinDog has got you covered.
@@ -57,6 +59,6 @@ Hi there! I'm [Your Name], a passionate developer and a proud dog lover. TinDog 
 
 ### Acknowledgments
 Special thanks to the creators of the Bootstrap framework and Font Awesome for their amazing tools that made this project possible.
-
+[Click Here👈👈👈](https://saurabhalagdeve.github.io/Tin-Dog-Website/)
 Enjoy connecting with adorable dogs and happy swiping! 🐾
 
